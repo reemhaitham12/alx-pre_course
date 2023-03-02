@@ -1,4 +1,1 @@
-My first readme Updated
-readme update 
-Hello ...!
-update
+My first readme updated
